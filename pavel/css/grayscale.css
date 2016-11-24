@@ -39,7 +39,10 @@ p {
 #about{
     margin-bottom: 150px;
 }
-
+#contact{
+    margin-top: 30%;
+    margin-bottom: 30%;
+}
 #mainTitle{
     letter-spacing: 35px;
 }
@@ -283,7 +286,7 @@ a:focus {
         padding-top: 250px;
     }
     #about{
-        margin-bottom: 300px;
+        margin-bottom: 350px;
     }
 }
 
