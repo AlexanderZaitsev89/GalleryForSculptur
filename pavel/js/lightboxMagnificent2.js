@@ -4,51 +4,61 @@ $('.magnific-gallery').each(function(index, value) {
   switch (index) {
     case 0:
       //console.log("was here");
-      title="Source";
+      title="The Source";
       break;
     case 1:
-      title="Ilmarinen";
+      title="Saint Christopher";
       break;
     case 2:
       title="Monumentalist";
+      break;
     case 3:
       title="Donkey";
       break;
-    case 4:
+      case 4:
+          title="Klaudia";
+          break;
+    case 5:
       title="Sunrise";
       break;
-      case 5:
+      case 6:
           title="Ferdinand Porsche";
           break;
-      case 6:
+      case 7:
           title="Harlequin";
           break;
-      case 7:
-          title="Harvest Festival";
-          break;
       case 8:
-          title="Otter";
+          title="The Feast of the Transfiguration";
           break;
       case 9:
-          title="Messenger";
+          title="Gorgon";
           break;
       case 10:
-          title="The Maiden of Pohjola";
+          title="Harvest Festival";
           break;
       case 11:
-        title="David";
-        break;
+          title="Otter";
+          break;
       case 12:
-          title="Wounded Hare";
+          title="Messenger";
           break;
       case 13:
-          title="Equilibrium";
+          title="The Maiden of Pohjola";
           break;
       case 14:
+        title="David";
+        break;
+      case 15:
+          title="Equilibrium";
+          break;
+      case 16:
+          title="Wounded Hare";
+          break;
+      case 17:
           title="The Temptation of Pandora";
           break;
-      case 15:
-          title="Saint Christopher";
+      case 18:
+          title="Ilmarinen";
           break;
 
     default:
